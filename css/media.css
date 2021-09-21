@@ -1,0 +1,318 @@
+
+/*X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header css start*/
+.core_menu li ul{
+    left: 106px;
+    top: 0;
+    width: 170px;
+}
+.core_menu li:hover ul{
+    top: 20px;
+}
+/*header css end*/
+/*banner part start*/
+.banner_img img {
+    margin-left: 1px;
+    margin-bottom: -4px;
+    margin-top: 9px;
+}
+.banner_caption {
+    margin-bottom: 27px;
+    margin-top: 54px;
+    margin-left: -11px;
+}
+.banner_caption h1 {
+    margin: 20px 0 9px;
+    font-size: 36px;
+}
+.banner_caption h4 {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.shop_btn {
+    margin-top: 10px;
+    width: 150px;
+    height: 48px;
+    line-height: 50px;
+}
+/*banner part end*/
+/*collection part start*/
+.feature {
+    padding: 0px 0;
+}
+.feature_icon {
+    padding: 30px 0 30px;
+}
+.ftr_title h1 {
+    padding: 22px 0 16px;
+   
+}
+.collection_text{
+    padding: 35px 0;
+}
+.collection_text h1 {
+    font-size: 45px;
+    
+}
+.collection_text h3 {
+    font-size: 30px;
+    
+}
+.shop_btn {
+    margin-top: 3px;
+    width: 140px;
+    height: 42px;
+    line-height: 42px;
+}
+
+.c_img img {
+    margin-left: 12px;
+    width: 100%;
+}
+/*collection part end*/
+.journal {
+    padding: 10px 0;
+}
+.Instagram {
+    padding: 14px 0;
+}
+.title_follow {
+    padding: 2px 0 24px;
+    
+}
+/* footer media css start */
+.footer_top {
+    padding: 45px 0;
+}
+.footer_widget button {
+    width: 130px;
+    height: 40px;   
+}
+.footer_link ul li {
+    margin: 3px 0;
+}
+.social_icon ul li a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 5px;
+}
+.footer_link h2 {
+    margin-top: 15px;
+    font-size: 18px;
+}
+.freature-icon {
+    padding: 0;
+}
+.blog {
+    padding:0;
+}
+.social_icon{
+    text-align: center !important;
+ }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ 
+/*banner part start*/
+.banner_img img {
+    margin-left: 1px;
+    margin-bottom: -6px;
+    margin-top: 9px;
+}
+.banner_caption {
+    margin-bottom: 40px;
+    margin-top: 54px;
+    margin-left: -11px;
+}
+.banner_caption h1 {
+    margin: 20px 0 9px;
+    font-size: 47px;
+}
+.banner_caption h4 {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.shop_btn {
+    margin-top: 10px;
+    width: 150px;
+    height: 48px;
+    line-height: 50px;
+}
+/*banner part end*/
+/*collection part start*/
+.collection_text{
+    padding: 35px 0;
+}
+.collection_text h1 {
+    font-size: 60px;
+    
+}
+.collection_text h3 {
+    font-size: 35px;
+    
+}
+.shop_btn {
+    margin-top: 3px;
+    width: 150px;
+    height: 48px;
+    
+}
+.title_follow {
+    padding: 0px 0 35px;
+    
+}
+.ftr_title h1 {
+    padding: 22px 0 16px;
+   
+}
+.c_img img {
+    margin-left: 30px;
+    width: 100%;
+}
+.date h4 {
+    font-size: 18px;
+    
+}
+.journal {
+    padding: 35px 0;
+}
+.Instagram {
+    padding: 30px 0;
+}
+.footer_link ul li {
+    margin: 3px 0;
+}
+.social_icon ul li a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 5px;
+}
+.footer_link h2 {
+    margin-top: 15px;
+    font-size: 22px;
+}
+/*collection part end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width:991.98px) {
+
+/*banner part start*/
+.banner_img img {
+    margin-left: 1px;
+    margin-bottom: -4px;
+    margin-top: 9px;
+}
+.banner_caption {
+    margin-top: 54px;
+    margin-left: -11px;
+}
+.banner_caption h1 {
+    margin: -12px 0 -3px;
+    font-size: 39px;
+}
+.banner_caption h4 {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.shop_btn {
+    margin-top: 10px;
+    width: 130px;
+    height: 48px;
+    line-height: 50px;
+}
+/*banner part end*/
+.main_icon ul li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    
+}
+.main_icon ul {
+    text-align: center;
+    margin-bottom: -16px;
+}
+
+/*collection part start*/
+.collection_text h1 {
+    font-size: 45px;
+    
+}
+.collection_text h3 {
+    font-size: 25px;
+    
+}
+.shop_btn {
+    margin-top: 3px;
+    width: 130px;
+    height: 48px;
+    
+}
+
+.c_img img {
+    margin-left: 34px;
+    width: 100%;
+}
+.journal {
+    padding: 35px 0;
+}
+.Instagram {
+    padding: 30px 0;
+}
+/*collection part end*/
+/*feature icon start*/
+.feature_icon {
+    padding: 60px 0 30px;
+}
+/*feature icon end*/
+ }
+
+/*Large devices (desktops, 992px and up)*/ 
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner part start*/
+.banner_img img {
+    margin-left: 1px;
+    margin-bottom: -6px;
+    margin-top: 10px;
+}
+.banner_caption {
+    margin-top: 98px;
+    margin-left: -11px;
+}
+.banner_caption h1 {
+    margin: -12px 0 -3px;
+    font-size: 47px;
+}
+.banner_caption h4 {
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+.shop_btn {
+    margin-top: 10px;
+    width: 150px;
+    height: 48px;
+    line-height: 50px;
+}
+/*banner part end*/
+/*collection part start*/
+.c_img img {
+    margin-left: 27px;
+    width: 100%;
+}
+/*collection part end*/
+}
+
+/*X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+/*XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+ }
